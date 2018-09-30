@@ -1,0 +1,7 @@
+D:\C#pro\Sunday_Revesion\Revesion1\bin\Debug\Revesion1.exe.config
+D:\C#pro\Sunday_Revesion\Revesion1\bin\Debug\Revesion1.exe
+D:\C#pro\Sunday_Revesion\Revesion1\bin\Debug\Revesion1.pdb
+D:\C#pro\Sunday_Revesion\Revesion1\obj\Debug\Revesion1.csprojAssemblyReference.cache
+D:\C#pro\Sunday_Revesion\Revesion1\obj\Debug\Revesion1.csproj.CoreCompileInputs.cache
+D:\C#pro\Sunday_Revesion\Revesion1\obj\Debug\Revesion1.exe
+D:\C#pro\Sunday_Revesion\Revesion1\obj\Debug\Revesion1.pdb
